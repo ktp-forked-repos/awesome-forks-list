@@ -7,6 +7,7 @@ A list of awesome forks of projects.
 | [sloisel/numeric](https://github.com/sloisel/numeric) | [orangeduck/numeric](https://github.com/orangeduck/numeric) | Numerical analysis in Javascript |
 | [jaz303/tipsy](https://github.com/jaz303/tipsy) | [CloCkWeRX/tipsy](https://github.com/CloCkWeRX/tipsy) | Facebook-style tooltips plugin for jQuery |
 | [jigish/slate](https://github.com/jigish/slate) | [mattr-/slate](https://github.com/mattr-/slate) | A window management application for OSX |
+| [xtranophilist/gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors) | [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) | Shows CPU temperature, HDD temperature, voltage and fan RPM |
 
 ### Raison d'être
 
