@@ -14,3 +14,10 @@ A list of awesome forks of projects.
 This list is a compilation of all the major forks I have found using [Lovely forks](https://github.com/musically-ut/lovely-forks) extension. I intend to eventually use this to warn people creating pull requests/issues for dead projects to move them to more active forks of the projects.
 
 See also: [Deprecated repo option](https://github.com/isaacs/github/issues/144)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Utkarsh Upadhyay](http://musicallyut.in) has waived all copyright and related or neighboring rights to this work.
