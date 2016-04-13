@@ -10,6 +10,7 @@ A list of awesome forks of projects.
 | [xtranophilist/gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors) | [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) | Shows CPU temperature, HDD temperature, voltage and fan RPM |
 | [amd/furious.js](https://github.com/amd/furious.js) | [hpcgarage/furious.js](https://github.com/hpcgarage/furious.js) | Numerical computations in Javascript. |
 | [stephenroller/clojure-tmbundle](https://github.com/stephenroller/clojure-tmbundle) | [nullstyle/clojure-tmbundle](https://github.com/nullstyle/clojure-tmbundle) | A TextMate bundle to support development of Clojure code. |
+[kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) | [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) | Fuzzy finder for Vim. |
 
 ### Raison d'être
 
