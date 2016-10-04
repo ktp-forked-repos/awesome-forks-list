@@ -12,6 +12,7 @@ A list of awesome forks of projects.
 | [stephenroller/clojure-tmbundle](https://github.com/stephenroller/clojure-tmbundle) | [nullstyle/clojure-tmbundle](https://github.com/nullstyle/clojure-tmbundle) | A TextMate bundle to support development of Clojure code. |
 [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) | [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) | Fuzzy finder for Vim. |
 | [Schnouki/pympress](https://github.com/Schnouki/pympress) | [Cimbali/pympress](https://github.com/Cimbali/pympress) | Dual-screen PDF reader for presentations |
+| [nvie/gitflow](https://github.com/nvie/gitflow) | [datasift/gitflow](https://github.com/datasift/gitflow) | Extension for git-flow branching model adapted for Github. |
 
 ### Raison d'être
 
