@@ -13,6 +13,7 @@ A list of awesome forks of projects.
 [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) | [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) | Fuzzy finder for Vim. |
 | [Schnouki/pympress](https://github.com/Schnouki/pympress) | [Cimbali/pympress](https://github.com/Cimbali/pympress) | Dual-screen PDF reader for presentations |
 | [nvie/gitflow](https://github.com/nvie/gitflow) | [datasift/gitflow](https://github.com/datasift/gitflow) | Extension for git-flow branching model adapted for Github. |
+| [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) | [Angristan/openvpn-install](https://github.com/Angristan/openvpn-install) | Makes installation of OpenVPN more secure. |
 
 ### Raison d'être
 
