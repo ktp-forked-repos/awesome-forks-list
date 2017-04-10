@@ -14,6 +14,7 @@ A list of awesome forks of projects.
 | [Schnouki/pympress](https://github.com/Schnouki/pympress) | [Cimbali/pympress](https://github.com/Cimbali/pympress) | Dual-screen PDF reader for presentations |
 | [nvie/gitflow](https://github.com/nvie/gitflow) | [datasift/gitflow](https://github.com/datasift/gitflow) | Extension for git-flow branching model adapted for Github. |
 | [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) | [Angristan/openvpn-install](https://github.com/Angristan/openvpn-install) | Makes installation of OpenVPN more secure. |
+| [bgromov/wiki-mathjax](https://github.com/bgromov/wiki-mathjax) | [orsharir/github-mathjax](https://github.com/orsharir/github-mathjax) | Port extension from Wikipedia to Github. |
 
 ### Raison d'être
 
