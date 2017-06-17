@@ -15,6 +15,7 @@ A list of awesome forks of projects.
 | [nvie/gitflow](https://github.com/nvie/gitflow) | [datasift/gitflow](https://github.com/datasift/gitflow) | Extension for git-flow branching model adapted for Github. |
 | [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) | [Angristan/openvpn-install](https://github.com/Angristan/openvpn-install) | Makes installation of OpenVPN more secure. |
 | [bgromov/wiki-mathjax](https://github.com/bgromov/wiki-mathjax) | [orsharir/github-mathjax](https://github.com/orsharir/github-mathjax) | Port extension from Wikipedia to Github. |
+| [ithinc/tabutils](https://github.com/ithinc/tabutils) | [yfdyh000/tabutils](https://github.com/yfdyh000/tabutils) | Compatibility fixes for the Firefox extension |
 
 ### Raison d'être
 
