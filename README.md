@@ -17,6 +17,8 @@ A list of awesome forks of projects.
 | [bgromov/wiki-mathjax](https://github.com/bgromov/wiki-mathjax) | [orsharir/github-mathjax](https://github.com/orsharir/github-mathjax) | Port extension from Wikipedia to Github. |
 | [ithinc/tabutils](https://github.com/ithinc/tabutils) | [yfdyh000/tabutils](https://github.com/yfdyh000/tabutils) | Compatibility fixes for the Firefox extension |
 | [spesmilo/electrum](https://github.com/spesmilo/electrum) | [pooler/electrum-ltc](https://github.com/pooler/electrum-ltc) | Electrum wallet for LiteCoin |
+| [d3/d3-force](https://github.com/d3/d3-force) | [vasturiano/d3-force-3d](https://github.com/vasturiano/d3-force-3d) | Force graph layout extended to 3D |
+
 
 ### Raison d'être
 
