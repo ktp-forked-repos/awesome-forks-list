@@ -19,6 +19,7 @@ A list of awesome forks of projects.
 | [spesmilo/electrum](https://github.com/spesmilo/electrum) | [pooler/electrum-ltc](https://github.com/pooler/electrum-ltc) | Electrum wallet for LiteCoin |
 | [d3/d3-force](https://github.com/d3/d3-force) | [vasturiano/d3-force-3d](https://github.com/vasturiano/d3-force-3d) | Force graph layout extended to 3D |
 | [tonymorris/fp-course](https://github.com/tonymorris/fp-course) | [data61/fp-course](https://github.com/data61/fp-course) | Functional Programming Course |
+| [aaronsw/html2text](https://github.com/aaronsw/html2text) | [Alir3z4/html2text](https://github.com/Alir3z4/html2text) | HTML 2 text converter, originally by Aaron Swartz. |
 
 
 ### Raison d'être
